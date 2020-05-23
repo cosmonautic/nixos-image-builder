@@ -1,0 +1,3 @@
+[submodule "external/shell-lib"]
+	path = external/shell-lib
+	url = git@github.com:cosmonautic/shell-lib.git
